@@ -1,6 +1,6 @@
 # HelpHire
 
-## Oveerview
+## Overview
 
 HelpHire is a digital marketplace where people in need of domestic help can connect with trusted and vetted professional service providers to get everyday household chores done. It’s like Uber, but for local and domestic services such as cleaning, plumbing, laundry, childcare, and cooking.
 
